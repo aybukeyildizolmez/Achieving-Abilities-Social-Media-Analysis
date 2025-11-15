@@ -37,18 +37,26 @@ The analysis focuses on **Instagram** and **Facebook** data, comparing audience 
 
 ## 📂 Folder Structure
 ```
-/Achieving-Abilities-Social-Media-Analysis
+Achieving-Abilities-Social-Media-Analysis/
 │
-├── data/          # Raw & cleaned data
+├── visuals/ # Exported PNG charts
 │
-├── scripts/       # R scripts for plotting & analysis
+├── scripts/ # R Markdown (.Rmd) full analysis
 │
-├── visuals/       # All generated charts
+├── report/ # Final written report (DOCX)
 │
-└── report/        # PDF, Rmd, or summary report
+└── README.md # Project documentation
 ```
 
 ---
+
+## 🎨 Presentation (Optional)
+View the visual slide deck on Canva:  
+👉 **https://www.canva.com/design/DAG2q4pbImE/6Kz-Gda8nDt2c4QPopKD3A/edit?utm_content=DAG2q4pbImE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
+
+---
+
+
 
 ## 📝 Summary
 This project demonstrates data cleaning, visualization, pattern analysis, and storytelling through R.  
