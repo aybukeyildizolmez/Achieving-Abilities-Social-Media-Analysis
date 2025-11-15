@@ -36,11 +36,17 @@ The analysis focuses on **Instagram** and **Facebook** data, comparing audience 
 ---
 
 ## 📂 Folder Structure
+```
 /Achieving-Abilities-Social-Media-Analysis
-├── data/ # Raw & cleaned data
-├── scripts/ # R scripts for plotting & analysis
-├── visuals/ # All generated charts
-└── report/ # PDF, Rmd, or summary report
+│
+├── data/          # Raw & cleaned data
+│
+├── scripts/       # R scripts for plotting & analysis
+│
+├── visuals/       # All generated charts
+│
+└── report/        # PDF, Rmd, or summary report
+```
 
 ---
 
