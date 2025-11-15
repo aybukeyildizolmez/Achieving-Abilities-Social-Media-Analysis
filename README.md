@@ -39,13 +39,15 @@ The analysis focuses on **Instagram** and **Facebook** data, comparing audience 
 ```
 Achieving-Abilities-Social-Media-Analysis/
 │
-├── visuals/ # Exported PNG charts
+├── data/           # Raw data files (.csv)
 │
-├── scripts/ # R Markdown (.Rmd) full analysis
+├── visuals/        # Exported PNG charts 
 │
-├── report/ # Final written report (DOCX)
+├── script/         # R Markdown full analysis (.Rmd)
 │
-└── README.md # Project documentation
+├── report/         # Final written report (DOCX)
+│
+└── README.md       # Project documentation
 ```
 
 ---
